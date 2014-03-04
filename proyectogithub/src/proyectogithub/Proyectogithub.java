@@ -23,6 +23,7 @@ public class Proyectogithub {
 //    proyecto conectado con github intentamos subir esta primera prueba
     
 //    segundo intento subir con push
+//    segundo commit para subir al github mediante push
     
     
 }
